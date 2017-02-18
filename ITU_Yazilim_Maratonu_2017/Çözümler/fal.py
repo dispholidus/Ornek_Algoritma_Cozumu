@@ -5,7 +5,7 @@ Girdi: 2 string
 Çıktı: 1 string
 
 
-Girdi-Çıktı birimi: Standart iput-output
+Girdi-Çıktı birimi: Standart input-output
 """
 
 alfabe = ["A", "B", "C", "D", "E", "F", "G", "H",
